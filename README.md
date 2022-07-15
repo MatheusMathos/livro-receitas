@@ -1,5 +1,5 @@
 
-# Ingrediente :
+# Ingredientes :
 
 * 1 colher de goma de tapioca;
 * 1 ovo;
